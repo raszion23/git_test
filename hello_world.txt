@@ -1,0 +1,3 @@
+Hello world,
+
+I am part of a Git test!   
